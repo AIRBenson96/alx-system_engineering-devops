@@ -1,2 +1,2 @@
 #!/bin/bash
-alias pwd="echo 'Hello $(whoami)!'"
+alias pwd="echo Hello $(whoami)!"
